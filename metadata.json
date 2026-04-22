@@ -1,0 +1,5 @@
+{
+  "name": "Eco Hero Simulator",
+  "description": "A simulation game where you restore polluted environments using strategy and AI guidance.",
+  "requestFramePermissions": []
+}
